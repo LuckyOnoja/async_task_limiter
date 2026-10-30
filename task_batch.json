@@ -1,0 +1,6 @@
+[
+  { "id": "task_1", "duration": 500 },
+  { "id": "task_2", "duration": 300 },
+  { "id": "task_3", "duration": 400 },
+  { "id": "task_4", "duration": 200 }
+]
